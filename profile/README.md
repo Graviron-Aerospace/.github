@@ -2,9 +2,9 @@
 
 # Graviron Aerospace
 
-### Engineering the Future of Orbital Infrastructure
+### Beyond Launch — Launch is only the beginning. We own everything that happens afterward.
 
-Reusable spacecraft for orbital servicing, autonomous inspection, space debris removal, and asteroid resource utilization.
+Graviron Aerospace is a space logistics company building reusable orbital drones for commercial, defense, and government missions.
 
 <p>
   <a href="https://graviron.space">🌐 Website</a> •
@@ -66,16 +66,6 @@ Reusable orbital servicing spacecraft designed for:
 
 ---
 
-# 📂 Featured Repositories
-
-| Repository | Description |
-|------------|-------------|
-| Orbit Keeper | Orbital servicing platform |
-| Research | Internal research and technical studies |
-| Mission Concepts | Future mission architectures |
-
----
-
 # 🤝 Collaborate
 
 We're always interested in collaborating with:
@@ -100,8 +90,6 @@ From Earth's orbit to the Moon, asteroids, and beyond.
 
 <div align="center">
 
-## Building Tomorrow's Orbital Infrastructure.
-
-⭐ Follow our journey.
+## #BeyondLaunch
 
 </div>
